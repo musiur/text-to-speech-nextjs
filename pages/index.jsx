@@ -2,7 +2,7 @@ import TextToSpeech from "@/components/TextToSpeech";
 
 const Home = () => {
   return (
-    <div>
+    <div className="p-5">
       <TextToSpeech />
     </div>
   );
